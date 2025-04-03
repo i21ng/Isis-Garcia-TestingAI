@@ -177,7 +177,7 @@ NE65498_23
 NE65498_24
 NE65498_25
 
-##DISEÑO MODULAR##
+## DISEÑO MODULAR
 
 1. **Prompt diagramas de clases y de flujo**
 Como ingeniero de calidad y pruebas de software, crea un diagrama de clases y un diagrama de flujo correspondientes a los requerimientos funcionales y no funcionales definidos en el archivo adjunto. De ser posible genera el código para mermaid. 
