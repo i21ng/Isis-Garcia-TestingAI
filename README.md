@@ -1,4 +1,4 @@
-# Isis-Garc-a-TestingAI
+# Isis-Garcia-TestingAI
 Proyecto Final - Modelo VIAG QA 4.0
 
 ##ARTEFACTOS DE PRUEBAS##
