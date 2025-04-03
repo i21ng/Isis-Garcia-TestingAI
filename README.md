@@ -1,7 +1,7 @@
 # Isis-Garcia-TestingAI
 Proyecto Final - Modelo VIAG QA 4.0
 
-##ARTEFACTOS DE PRUEBAS##
+## ARTEFACTOS DE PRUEBAS
 
 1. **Documento de casos de prueba**
 CasosPrueba.xlsx
