@@ -9,7 +9,7 @@ CasosPrueba.xlsx
 2. **Documento de seguimiento de errores**
 SeguimientoErrores.xlsx
 
-##REQUERIMIENTOS##
+## REQUERIMIENTOS
 
 1. **Idea de proyecto de software**
 Sistema para registro de insumos de una panadería.
@@ -27,7 +27,7 @@ Ayúdame a generar una tabla con todos los casos de prueba de aceptación de los
 
 Se guardan casos de prueba en archivo _CasosPrueba_
 
-##PRUEBAS DE ACEPTACIÓN##
+## PRUEBAS DE ACEPTACIÓN
 1. **Modelo de lenguaje**
 Gemini / Chat GPT
 
@@ -58,7 +58,7 @@ NE65498_9
 NE65498_10
 NE65498_11
 
-##DISEÑO DEL SISTEMA##
+## DISEÑO DEL SISTEMA
 
 1. **Prompt casos de uso**
 Genera todos los casos de uso posibles para los requerimientos funcionales y no funcionales del documento adjunto, de preferencia organizados en una tabla. Gemini
@@ -81,7 +81,7 @@ Chat GPT
 4. **Casos de prueba generados**
 Se agregan casos de prueba al documento _CasosPrueba_
 
-##PRUEBAS DE SISTEMA##
+## PRUEBAS DE SISTEMA
 
 1. **Alteración casos de uso e interfaces de usuario**
 
@@ -122,7 +122,7 @@ NE65498_16
 NE65498_17
 NE65498_18
 
-##DISEÑO DE ARQUITECTURA##
+## DISEÑO DE ARQUITECTURA
 
 1. **Prompt diseño arquitectura**
 Como ingeniero de calidad y pruebas de software, crea el diseño de arquitectura correspondiente a los requerimientos funcionales y no funcionales definidos en el archivo adjunto y considerando que deben generarse diagramas de infraestructura, de componentes y de bases de datos.
@@ -144,7 +144,7 @@ Perplexity
 
 Se guardan casos de prueba en archivo _CasosPrueba_
 
-##PRUEBAS DE INTEGRACIÓN##
+## PRUEBAS DE INTEGRACIÓN
 
 1. **Alteraciones a diagramas de arquitectura**
 
@@ -196,7 +196,7 @@ Perplexity
 3. **Casos de prueba generados**
 Se agregan casos de prueba al documento _CasosPrueba_
 
-##PRUEBAS UNITARIAS##
+## PRUEBAS UNITARIAS
 
 1. **Modelo de lenguaje**
 Chat GPT
@@ -217,7 +217,7 @@ Se agregan los siguientes errores al documento:
 NE65498_26
 NE65498_27
 
-##CLASIFICACIÓN##
+## CLASIFICACIÓN
 
 1. **Modelo de lenguaje**
 Chat GPT
