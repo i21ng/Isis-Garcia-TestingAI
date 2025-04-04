@@ -227,6 +227,15 @@ Como experta en pruebas y calidad de software, ayúdame a asignar un grado de se
 
 Archivo generado: erroresClasificados.CSV
 
+## PRUEBAS AUTOMATIZADAS
+
+1. Acciones de usuario para formulario de registro en https://webcore.zell.mx/
+
+2. Código para pruebas automatizadas con NUnit
+Se incluye solo un registro considerando la captura de todos los campos obligatorios, quedó pendiente generar el código para pruebas de error y validación de datos.
+
+3. Código en playwright y ZeroStep con Cursor - Quedó pendiente.
+
 
 
 
